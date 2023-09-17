@@ -13,7 +13,7 @@ This project focuses on customer data analysis, where we have performed data cle
 5. [Dependencies](#dependencies)
 6. [Contributing](#contributing)
 7. [License](#license)
-8. [Acknowledegment](#acknowledgement)
+8. [Acknowledgments](#acknowledgments)
 
 ## Key Objectives
 
