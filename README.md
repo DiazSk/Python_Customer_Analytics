@@ -1,7 +1,5 @@
 # Customer Analytics Project
 
----
-
 ## Overview
 
 This project focuses on customer data analysis, where we have performed data cleaning and manipulation, conducted exploratory data analysis (EDA) using Python libraries like pandas, matplotlib, and seaborn. The goal of this analysis is to improve customer experience and boost sales by identifying potential customers across different states, occupations, gender, and age groups. Additionally, we have also pinpointed the most selling product categories and products, which can assist in inventory planning to meet customer demands more effectively.
